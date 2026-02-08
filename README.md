@@ -16,26 +16,22 @@ Docker 기반 환경 구성과 메시지 브로커를 활용한 구조까지 경
 ![Spring Security](https://img.shields.io/badge/Spring%20Security-6.x-6DB33F?style=flat&logo=springsecurity)
 ![JPA](https://img.shields.io/badge/JPA-Hibernate-59666C?style=flat)
 
----
 
 ### Database
 ![MySQL](https://img.shields.io/badge/MySQL-8.0-4479A1?style=flat&logo=mysql)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-14%2B-4169E1?style=flat&logo=postgresql)
 ![Redis](https://img.shields.io/badge/Redis-Cache%20%26%20Session-DC382D?style=flat&logo=redis)
 
----
 
 ### Messaging & Streaming
 ![Apache Kafka](https://img.shields.io/badge/Apache%20Kafka-Message%20Broker-231F20?style=flat&logo=apachekafka)
 
----
 
 ### Infra & Cloud
 ![Docker](https://img.shields.io/badge/Docker-Container-2496ED?style=flat&logo=docker)
 ![Docker Compose](https://img.shields.io/badge/Docker%20Compose-Orchestration-2496ED?style=flat&logo=docker)
 ![AWS](https://img.shields.io/badge/AWS-EC2%20%7C%20RDS%20%7C%20S3-232F3E?style=flat&logo=amazonaws)
 
----
 
 ### Tools & Collaboration
 ![Git](https://img.shields.io/badge/Git-Version%20Control-F05032?style=flat&logo=git)
