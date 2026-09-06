@@ -36,7 +36,3 @@ Docker 기반 환경 구성과 메시지 브로커를 활용한 구조까지 경
 ![Jira](https://img.shields.io/badge/Jira-Agile%20Management-0052CC?style=flat&logo=jira)
 ![Notion](https://img.shields.io/badge/Notion-Documentation-000000?style=flat&logo=notion)
 ![Slack](https://img.shields.io/badge/Slack-Team%20Communication-4A154B?style=flat&logo=slack)
-
----
-
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=wltjd403)](https://solved.ac/wltjd403/)
