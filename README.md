@@ -13,7 +13,6 @@ Docker 기반 환경 구성과 메시지 브로커를 활용한 구조까지 경
 ### Backend
 ![Java](https://img.shields.io/badge/Java-17%2B-007396?style=flat&logo=java)
 ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-3.x-6DB33F?style=flat&logo=springboot)
-![Spring Security](https://img.shields.io/badge/Spring%20Security-6.x-6DB33F?style=flat&logo=springsecurity)
 ![JPA](https://img.shields.io/badge/JPA-Hibernate-59666C?style=flat)
 
 
