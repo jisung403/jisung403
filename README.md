@@ -23,9 +23,6 @@ Docker 기반 환경 구성과 메시지 브로커를 활용한 구조까지 경
 ![Redis](https://img.shields.io/badge/Redis-Cache%20%26%20Session-DC382D?style=flat&logo=redis)
 
 
-### Messaging & Streaming
-![Apache Kafka](https://img.shields.io/badge/Apache%20Kafka-Message%20Broker-231F20?style=flat&logo=apachekafka)
-
 
 ### Infra & Cloud
 ![Docker](https://img.shields.io/badge/Docker-Container-2496ED?style=flat&logo=docker)
